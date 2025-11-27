@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="5da3b451-06cc-422e-8e51-7f2913a310f5.png" alt="Tor Relay Project Banner" width="100%">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Tor%20Relay-Middle%20Node-7E4798?style=for-the-badge&logo=torproject&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-Server-333?style=for-the-badge&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Networking-Routing%20%7C%20TCP%20%7C%20BGP-0052CC?style=for-the-badge&logo=cisco&logoColor=white" />
