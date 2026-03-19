@@ -1,4 +1,4 @@
-⚙️ torrc Configuration — Middle Relay Settings
+torrc Configuration — Middle Relay Settings
 
 This file documents the Tor relay configuration used by the node, including parameter explanations and safe defaults.
 
