@@ -3,7 +3,7 @@
 </p>
 ### About This Project
 
-This repository documents my hands-on journey operating a Tor relay while studying global routing behavior, traffic engineering, latency stability, and privacy-focused networking design.
+This repository documents my hands on journey operating a Tor relay while studying global routing behavior, traffic engineering, latency stability, and privacy focused networking design.
 
 
 
