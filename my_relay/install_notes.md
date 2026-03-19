@@ -81,11 +81,6 @@ no warnings about ports
 
 no permission errors
 
-8. Next Steps
-
-You will add:
-
-torrc_config.md
 
 troubleshooting_log.md
 
