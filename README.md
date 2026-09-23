@@ -46,8 +46,8 @@ Those questions now show up again in my newer work on BGP failover and network o
 
 ## Where my work went next
 
-- [Mini Internet](https://github.com/PatienceEnoch/mini-internet) — controlled BGP failover and convergence experiments
-- [Network Flight Recorder](https://github.com/PatienceEnoch/network-flight-recorder) — local-first observability, incident evidence, diagnosis, and guarded recovery
-- [Cloud Network Architecture Journal](https://github.com/PatienceEnoch/Cloud_Network_Architecture_Journal) — routing and architecture notes
+- [Mini Internet](https://github.com/PatienceEnoch/mini-internet): controlled BGP failover and convergence experiments
+- [Network Flight Recorder](https://github.com/PatienceEnoch/network-flight-recorder): local-first observability, incident evidence, diagnosis, and guarded recovery
+- [Cloud Network Architecture Journal](https://github.com/PatienceEnoch/Cloud_Network_Architecture_Journal): routing and architecture notes
 
 This repository is a documented project/lab record; it should not be read as a claim that the relay is continuously online today.
